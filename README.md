@@ -16,10 +16,10 @@ $ python main.py
 ```
 
 ### 内容图片
-![image](https://github.com/Liu-Vince/Neural-Style-Transfer/raw/master/images/content.jpg)
+![image](https://github.com/Liu-Vince/Neural-Style-Transfer/blob/main/images/content.jpg)
 
 ### 风格图片
-![image](https://github.com/Liu-Vince/Neural-Style-Transfer/raw/master/images/style.jpg)
+![image](https://github.com/Liu-Vince/Neural-Style-Transfer/blob/main/images/style.jpg)
 
 ### 合成图片
-![image](https://github.com/Liu-Vince/Neural-Style-Transfer/raw/master/images/output.png)
+![image](https://github.com/Liu-Vince/Neural-Style-Transfer/blob/main/images/output.png)
